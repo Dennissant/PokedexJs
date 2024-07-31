@@ -1,1 +1,3 @@
-# PokedexJs é uma aplicação web feita em JavaScript para explorar e buscar informações sobre Pokémon. Através da PokeAPI, você pode ver detalhes como tipo, habilidades, e evoluções dos seus Pokémon favoritos. É uma ferramenta prática para aprender JavaScript e entender como integrar APIs em projetos web.
+# PokedexJs #
+é uma aplicação web feita em JavaScript para explorar e buscar informações sobre Pokémon. Através da PokeAPI, você pode ver detalhes como tipo, habilidades, e evoluções dos seus Pokémon favoritos.
+É uma ferramenta prática para aprender JavaScript e entender como integrar APIs em projetos web.
